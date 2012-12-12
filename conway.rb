@@ -2,8 +2,8 @@
 
 require_relative 'lib/conways'
 
-ROWS = 40
-COLS = 100
+ROWS = 22
+COLS = 79
 
 def seed_grid
   grid = {}
